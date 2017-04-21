@@ -30,4 +30,4 @@ This role was created by [Stefan Froelich](https://thedumbtechguy.blogspot.com/)
 
 ## Credits
 
-This role is based on information presented by [Iwade](https://coderwall.com/lwade) in the coderwall article [Dump all variables](https://coderwall.com/p/13lh6w/dump-all-variables).
+This role is based on information presented by [Lester Wade](https://coderwall.com/lwade) in the coderwall article [Dump all variables](https://coderwall.com/p/13lh6w/dump-all-variables).
