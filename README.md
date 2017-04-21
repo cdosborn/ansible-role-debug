@@ -1,6 +1,6 @@
 # Ansible Role: Debug
 
-This role dumps all variables in the current session to a file on the host.
+An ansible role to dump all variables in the current session to a file on the host.
 
 ## Requirements
 
