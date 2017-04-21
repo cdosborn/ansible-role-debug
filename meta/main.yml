@@ -9,5 +9,12 @@ galaxy_info:
   company: "Half Tree Labs"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.0
+  platforms:
+    - name: Ubuntu
+      versions:
+      - all
+    - name: Debian
+      versions:
+      - all
   galaxy_tags:
     - debugging
