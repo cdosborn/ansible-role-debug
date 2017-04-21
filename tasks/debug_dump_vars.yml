@@ -1,0 +1,6 @@
+---
+
+- name: dump all vars
+  template: 
+    src: templates/dumpall.j2 
+    dest: '{{ debug_var_dump_path }}''

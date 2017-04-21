@@ -1,0 +1,6 @@
+---
+
+- include: debug_dump_vars.yml
+  tags:
+    - debugging
+    - dump_vars
